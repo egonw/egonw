@@ -1,8 +1,4 @@
-<div>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "familyName": "Willighagen"
-}
-</script>
-</div>
+# Projects
+
+* Funded Research: NanoCommons, RiskGONE, NanoSolveIT, Sbd4Nano, Scholia
+* Open Science: WikiPathways, Chemistry Development Kit, BridgeDb, Jmol
