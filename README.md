@@ -6,4 +6,4 @@
 
 ### News
 
-* [Conflict of Interest. Or why I am stepping down as Editor-in-Chief of the Journal of Cheminformatics](https://twitter.com/egonwillighagen/status/1403299501947899907)
+* 2021-06-11 [Conflict of Interest. Or why I am stepping down as Editor-in-Chief of the Journal of Cheminformatics](https://twitter.com/egonwillighagen/status/1403299501947899907)
