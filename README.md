@@ -6,5 +6,6 @@
 
 ### News
 
+* 2021-11-08 [ELIXIR and Toxicology: a community in development](https://f1000research.com/articles/10-1129) whitepaper is online
 * 2021-10-24 [COVID19 Disease Map published](https://twitter.com/bigcat_UM/status/1450429878042599426)
 * 2021-06-11 [Conflict of Interest. Or why I am stepping down as Editor-in-Chief of the Journal of Cheminformatics](https://twitter.com/egonwillighagen/status/1403299501947899907)
