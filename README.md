@@ -7,6 +7,7 @@
 ### News
 
 * 2024-10-15 The [paper outlining VHP4Safety](https://doi.org/10.14573/altex.2407211) has been published
+* 2044-09-01 Our BiGCaT group merged with two other groups into the new Department of Translational Genomics.
 * 2024-07-26 My [chem-bla-ics blog](https://chem-bla-ics.linkedchemistry.info/) moved to Git [a year ago](https://github.com/egonw/blog2/commit/097ba23d7c2cdcf848c55ccd537941d99b480abb)
 * 2023-12-15 We received an NWO Open Science grant to work on the Chemistry Development Kit
 * 2022-12-16 [Scholia](https://github.com/wdscholia/scholia) received the [WikiMedia Coolest Tool Award](https://meta.wikimedia.org/wiki/Coolest_Tool_Award) 2022 in the Impact section
