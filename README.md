@@ -1,7 +1,7 @@
 ### Some selection of Projects
 
 * Funded Research: [VHP4Safety](https://twitter.com/vhp4safety), EFSA grant, [INTOXICOM](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community), [FAIR4ChemNL](https://tdcc.nl/projects/tdcc-nes-projects/fair4chemnl-accelerating-the-adoption-of-universal-data-standards-in-chemistry/), [FAIRify](https://tdcc.nl/projects/tdcc-lsh-project-initiatives/)
-* Open Science: [WikiPathways](https://github.com/wikipathways), [Chemistry Development Kit](https://github.com/cdk), Jmol, [Scholia](https://github.com/wdscholia), [BridgeDb](https://www.bridgedb.org/)
+* Open Science: [WikiPathways](https://github.com/wikipathways), [Chemistry Development Kit](https://github.com/cdk), [Jmol](https://jmol.org/), [Scholia](https://github.com/wdscholia), [BridgeDb](https://www.bridgedb.org/)
 * ELIXIR: [Bioschemas](https://github.com/bioschemas/), [BridgeDb](https://github.com/bridgedb)
 
 ### News
